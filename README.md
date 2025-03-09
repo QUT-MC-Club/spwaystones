@@ -1,4 +1,4 @@
-# Server-Side Waystones (sswaystones)
+# Server Spawn Waystones (sswaystones)
 
 Polymer-based server sided Waystone mod, with Geyser and vanilla client support. (inspired by the now-archived [Wraith Waystones Polymer Port](https://modrinth.com/mod/polymer-ports-waystones))
 
